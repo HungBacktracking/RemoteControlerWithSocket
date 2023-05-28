@@ -26,6 +26,6 @@ In order to run this application directly, users only need to download either of
 
 | Client Diagram                                    | Server Diagram                                    |
 |---------------------------------------------------|---------------------------------------------------|
-| <img src="./pictureDescription/diagram-client.png" width="600px">     | <img src="./pictureDescription/diagram-server.png" width="600px">    |
+| <img src="./pictureDescription/diagram-client.png" width="800px">     | <img src="./pictureDescription/diagram-server.png" width="800px">    |
 
 The diagrams above illustrate the architecture of the client and server components, respectively.
